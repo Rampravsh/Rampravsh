@@ -51,9 +51,9 @@ Showcasing your activity is a modern way to prove engagement. You can use badges
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/-Rampravesh%20Kumar-0077B5?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL]) |
+| **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/-Rampravesh%20Kumar-0077B5?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/rpk-undefined-297949256]) |
 | **Twitter** | [![Twitter Badge](https://img.shields.io/badge/-@YourTwitterHandle-1DA1F2?style=flat&logo=twitter&logoColor=white)]([YOUR_TWITTER_URL]) |
-| **Email** | [![Email Badge](https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL_ADDRESS]) |
+| **Email** | [![Email Badge](https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[rampraveshkr4545@gmail.com]) |
 | **Portfolio** | [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=internetexplorer&logoColor=white)]([YOUR_PORTFOLIO_URL]) |
 
 ---
