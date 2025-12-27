@@ -95,6 +95,7 @@
 * **Day 20:** Recursion Patterns
 
 * **Day 21:** Weekly Revision
+complete
 
 ---
 
