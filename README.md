@@ -15,7 +15,7 @@ I am a **Full-Stack Developer** who loves building scalable web applications. I 
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,nextjs,ts,java,cpp,js,mysql,html,css,tailwindcss,react,mysql,express,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,flask,nextjs,ts,java,cpp,js,mysql,html,css,tailwindcss,react,mongodb,express,nodejs" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,aws" />
 </p>
