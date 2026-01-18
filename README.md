@@ -1,7 +1,7 @@
 # Hi there, I'm Ram Pravesh Kumar 👋 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=150&section=header&text=Ram%20Pravesh%20Kumar&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fc6d00&height=150&section=header&text=Ram%20Pravesh%20Kumar&fontSize=40&animation=fadeIn" />
 </p>
 
 ### 👨‍💻 About Me
