@@ -15,7 +15,13 @@
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%8D%A5+Dattebayo!+I+Never+Go+Back+On+My+Word!+%F0%9F%8D%A5;%E2%9A%A1+Full-Stack+Developer+%7C+Anime+Lover+%7C+Code+Ninja+%E2%9A%A1;%F0%9F%94%A5+Building+The+Future+One+Commit+At+A+Time+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Dattebayo!+I+Never+Go+Back+On+My+Word!;Full-Stack+Developer+%7C+Anime+Lover+%7C+Code+Ninja;Building+The+Future+One+Commit+At+A+Time" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=FF4500&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Kage+Bunshin+no+Jutsu!+%F0%9F%A5%B7;Rasengan+Loading...+%E2%9A%A1;Shadow+Clone+Developer+Mode+ON!" alt="Typing SVG 2" />
   </a>
 </p>
 
@@ -137,15 +143,20 @@
 </div>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rampravsh&show_icons=true&theme=radical&bg_color=0D1117&border_color=FF6600&icon_color=FF4500&title_color=FF6600&text_color=FFFFFF&ring_color=FF6600" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Rampravsh&theme=radical&background=0D1117&border=FF6600&stroke=FF6600&ring=FF4500&fire=FF6600&currStreakLabel=FF6600&sideLabels=FF6600&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rampravsh&theme=radical" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Rampravsh&theme=radical&background=0D1117&border=FF6600&stroke=FF6600&ring=FF4500&fire=FF6600&currStreakLabel=FF6600&sideLabels=FF6600&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rampravsh&layout=donut&theme=radical&bg_color=0D1117&border_color=FF6600&title_color=FF6600&text_color=FFFFFF" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rampravsh&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rampravsh&theme=radical" />
 </p>
 
 <!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rampravsh&theme=radical" />
+</p>
+
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rampravsh&theme=rogue&bg_color=0D1117&color=FF6600&line=FF4500&point=FFFFFF&area_color=FF6600&area=true&hide_border=true" />
 </p>
