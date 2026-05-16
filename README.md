@@ -1,226 +1,138 @@
-<!-- 🍥 NARUTO-THEMED ANIMATED GITHUB PROFILE README 🍥 -->
-
-<!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=27,12,6&height=200&section=header&text=Ram%20Pravesh%20Kumar&fontSize=45&fontColor=FF6600&animation=twinkling&desc=🍥%20Believe%20It!%20Full-Stack%20Developer%20🍥&descSize=18&descAlignY=75&fontAlignY=40&stroke=FF4500&strokeWidth=2" width="100%" />
-</p>
-
-<!-- ═══════════════════════ NARUTO GIF BANNER ═══════════════════════ -->
-<p align="center">
-  <img src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/JRlqKEzTDKci5JPcaL/giphy.gif" width="250" />
-</p>
-
-<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Dattebayo!+I+Never+Go+Back+On+My+Word!;Full-Stack+Developer+%7C+Anime+Lover+%7C+Code+Ninja;Building+The+Future+One+Commit+At+A+Time" alt="Typing SVG" />
-  </a>
-</p>
+# Ram Pravesh Kumar
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=FF4500&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Kage+Bunshin+no+Jutsu!+%F0%9F%A5%B7;Rasengan+Loading...+%E2%9A%A1;Shadow+Clone+Developer+Mode+ON!" alt="Typing SVG 2" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6600&color=100:FF4500&height=180&section=header&text=Full-Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
-<div align="center">
+---
 
-## 🍥 About Me — *The Ninja Way* 🍥
+## 👨‍💻 About Me
 
-</div>
+I'm a passionate **Full-Stack Developer** with expertise in building scalable web applications. I specialize in modern web technologies and have a strong foundation in both frontend and backend development. Committed to writing clean, maintainable code and delivering high-quality solutions.
 
-<table align="center">
+- 📍 Full-Stack Developer | Jonin Level 🥷
+- 🎯 Focus: Web Applications, System Design, Clean Code
+- 📧 Email: [rampraveshkr4545@gmail.com](mailto:rampraveshkr4545@gmail.com)
+- 🔗 Portfolio: [rampraveshkr.netlify.app](https://rampraveshkr.netlify.app/)
+
+---
+
+## 🛠️ Technical Skills
+
+### **Languages & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,flask,nextjs&theme=dark" alt="Languages & Frameworks" />
+</p>
+
+### **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwindcss,webpack&theme=dark" alt="Frontend" />
+</p>
+
+### **Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql&theme=dark" alt="Backend & Databases" />
+</p>
+
+### **Tools & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,netlify&theme=dark" alt="Tools & DevOps" />
+</p>
+
+---
+
+## 📦 Featured Projects
+
+<table>
 <tr>
 <td width="50%">
 
-<img align="right" src="https://media.giphy.com/media/kgUkCLMu3pxR2OfKRq/giphy.gif" width="250" />
+### 📚 Learning Management System (LMS)
+**A comprehensive educational platform**
+- Built with: Full-Stack Web Technologies
+- Features: Course management, User authentication, Progress tracking
+- 🔗 [Live Demo](https://learningmanagementsystem-lms.netlify.app/)
 
-### ⚡ *"I'm not gonna run away, I never go back on my word!"*
+</td>
+<td width="50%">
 
-- � **Nindo (Ninja Way):** Building scalable web apps that make an impact
-- 🎯 **Rank:** Full-Stack Developer (Jonin Level 🥷)
-- 🍜 **Fuel:** Ramen, Coffee & Clean Code
-- 🎌 **Otaku Status:** Naruto is ❤️ | Anime = Life
-- 📫 **Summon Me:** rampraveshkr4545@gmail.com
-- ⚡ **Fun Fact:** I debug code faster than Minato's teleportation jutsu!
+### 📅 Events Management System
+**Complete events handling application**
+- Tech Stack: Next.js, TypeScript, MySQL
+- Features: CRUD operations, Event scheduling
+- Status: Production Ready
 
 </td>
 </tr>
-</table>
-
-<!-- ═══════════════════════ NARUTO DIVIDER ═══════════════════════ -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<!-- ═══════════════════════ TECH STACK (JUTSU ARSENAL) ═══════════════════════ -->
-<div align="center">
-
-## 🥷 Jutsu Arsenal — *Tech Stack* 🥷
-
-</div>
-
-<div align="center">
-
-### 🔥 Katon (Fire Style) — Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,nextjs,ts,java,cpp,js&theme=dark" />
-</p>
-
-### ⚡ Raiton (Lightning Style) — Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwindcss&theme=dark" />
-</p>
-
-### 🌊 Suiton (Water Style) — Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-</p>
-
-### 🌀 Fuuton (Wind Style) — Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,aws&theme=dark" />
-</p>
-
-</div>
-
-<!-- ═══════════════════════ NARUTO DIVIDER ═══════════════════════ -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<!-- ═══════════════════════ KEY PROJECTS (MISSIONS) ═══════════════════════ -->
-<div align="center">
-
-## � S-Rank Missions — *Key Projects* 📜
-
-</div>
-
-<div align="center">
-<table>
 <tr>
-<td align="center" width="33%">
+<td width="50%">
 
-### 🏫 LMS
-**Learning Management System**<br>
-*A complete education platform*<br>
-🔗 [View Mission](https://learningmanagementsystem-lms.netlify.app/)
-
-</td>
-<td align="center" width="33%">
-
-### 🎪 Events System
-**Events Management**<br>
-*Next.js + TypeScript + MySQL*<br>
-⚔️ CRUD Application
+### 🎨 Personal Portfolio
+**Professional portfolio website**
+- Showcasing projects and skills
+- Responsive design & modern UI
+- 🔗 [View Portfolio](https://rampraveshkr.netlify.app/)
 
 </td>
-<td align="center" width="33%">
+<td width="50%">
 
-### 🏠 Portfolio
-**Personal Portfolio**<br>
-*My digital ninja scroll*<br>
-🔗 [View Mission](https://rampraveshkr.netlify.app/)
+### 🚀 Full-Stack Applications
+**Multiple production-ready applications**
+- REST APIs, Database management
+- Authentication & authorization
+- Performance optimization
 
 </td>
 </tr>
 </table>
-</div>
 
-<!-- ═══════════════════════ NARUTO DIVIDER ═══════════════════════ -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+---
 
-<!-- ═══════════════════════ GITHUB STATS (POWER LEVEL) ═══════════════════════ -->
-<div align="center">
-
-## 📊 Power Level — *GitHub Stats* 📊
-
-</div>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rampravsh&theme=radical" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Rampravsh&theme=radical&background=0D1117&border=FF6600&stroke=FF6600&ring=FF4500&fire=FF6600&currStreakLabel=FF6600&sideLabels=FF6600&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rampravsh&theme=github_dark" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rampravsh&theme=github_dark" alt="Languages" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rampravsh&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rampravsh&theme=radical" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Rampravsh&theme=github-dark" alt="Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rampravsh&theme=github_dark" alt="Most Commits" />
 </p>
 
-<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rampravsh&theme=radical" />
-</p>
+---
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rampravsh&theme=rogue&bg_color=0D1117&color=FF6600&line=FF4500&point=FFFFFF&area_color=FF6600&area=true&hide_border=true" />
-</p>
-
-<!-- ═══════════════════════ TROPHY CASE ═══════════════════════ -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rampravsh&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</p>
-
-<!-- ═══════════════════════ NARUTO DIVIDER ═══════════════════════ -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════ -->
-<div align="center">
-
-## 🐍 Contribution Snake — *Summoning Jutsu* 🐍
-
-</div>
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rampravsh&theme=github_dark&no-frame=true&column=7" alt="Trophies" />
 </p>
 
-<!-- ═══════════════════════ CONNECT (SUMMONING SCROLL) ═══════════════════════ -->
-<div align="center">
+---
 
-## 📡 Summoning Scroll — *Connect With Me* 📡
+## 📞 Connect With Me
 
-<p>
+<p align="center">
   <a href="mailto:rampraveshkr4545@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF6600?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Rampravsh">
-    <img src="https://img.shields.io/badge/GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://rampraveshkr.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6600?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF6600?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/rampravesh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-</div>
+---
 
-<!-- ═══════════════════════ NARUTO DIVIDER ═══════════════════════ -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://komarev.com/ghpvc/?username=Rampravsh&label=Profile%20Views&color=FF6600&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- ═══════════════════════ NARUTO QUOTE ═══════════════════════ -->
-<div align="center">
-
-### 🍥 *"When people are protecting something truly special to them, they truly can become... as strong as they can be."* — Naruto Uzumaki 🍥
-
-</div>
-
-<!-- ═══════════════════════ PROFILE VIEWS & FOOTER ═══════════════════════ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rampravsh&label=Profile%20Views&color=FF6600&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Rampravsh?label=Followers&style=for-the-badge&color=FF4500&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/Rampravsh?label=Stars&style=for-the-badge&color=FF6600&labelColor=0D1117" />
-</p>
-
-<!-- ═══════════════════════ FOOTER BANNER ═══════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,12,6&height=120&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6600&color=100:FF4500&height=120&section=footer&animation=fadeIn" width="100%" />
 </p>
